@@ -128,6 +128,43 @@ a.contribute-link {
   text-decoration: underline;
 }
 
+/**** PLACEHOLDER SECTION******/
+.search-container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+#search-input {
+  width: 100%;
+  height: 30px;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+#search-button {
+  float: right;
+  height: 30px;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+#results {
+  margin-top: 10px;
+}
+
+#results ul {
+  list-style: none;
+  padding: 0;
+}
+
+#results li {
+  display: block;
+  padding: 5px 10px;
+  border-bottom: 1px solid #ccc;
+}
+
 /** companies  */
 main {
   margin-top: 40px;
