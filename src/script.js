@@ -2,7 +2,7 @@ import techCompanies from "./techCompanies/index.js";
 
 //constants
 const mainSection = document.querySelector(".main-wrapper");
-const searchBar = document.querySelector(".input-search");
+const searchBar = document.querySelector(".search-input");
 const updateDate = document.querySelector(".copyright-date");
 
 // Searchbar
