@@ -64,5 +64,11 @@ export default {
       industry: "E-commerce company",
       website: "http://www.mypatricia.com",
     },
+     {
+      companyName: "palmpay",
+      companyTwitterHandle: "palmpay_ng" "palmpaygh" ,
+      industry: "Fin-tech",
+      website: "http://www.palmpay.com",
+    },
   ],
 };
